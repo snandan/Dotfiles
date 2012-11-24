@@ -1,0 +1,18 @@
+(custom-set-variables
+  ;; custom-set-variables was added by Custom -- don't edit or cut/paste it!
+  ;; Your init file should contain only one such instance.
+ '(auto-compression-mode t nil (jka-compr))
+ '(case-fold-search t)
+ '(column-number-mode t)
+ '(current-language-environment "UTF-8")
+ '(default-input-method "rfc1345")
+ '(global-font-lock-mode t nil (font-lock))
+ '(line-number-mode t)
+ '(load-home-init-file t t)
+ '(tooltip-gud-tips-p t)
+ '(which-func-modes (quote (emacs-lisp-mode cc-mode c-mode c++-mode perl-mode cperl-mode makefile-mode sh-mode fortran-mode))))
+(custom-set-faces
+  ;; custom-set-faces was added by Custom -- don't edit or cut/paste it!
+  ;; Your init file should contain only one such instance.
+ '(default ((t (:stipple nil :background "gray80" :foreground "#000000" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 108 :width normal :family "misc-fixed")))))
+(setq-default tab-width 4 indent-tabs-mode nil)

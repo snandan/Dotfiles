@@ -1,0 +1,4 @@
+#group: rails
+#name : belongs_to : ... 
+# --
+belongs_to :${class}

@@ -1,0 +1,4 @@
+#group: rails
+#name : render :partial => " ... ", :collection =>  ... 
+# --
+render :partial => "${item}", :collection => ${items}

@@ -1,0 +1,4 @@
+#group: rails
+#name : assert_equal  ... ,  ... 
+# --
+assert_equal ${expected}, ${actual}

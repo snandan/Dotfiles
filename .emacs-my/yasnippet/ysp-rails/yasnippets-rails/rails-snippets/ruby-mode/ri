@@ -1,0 +1,4 @@
+#group: rails
+#name : render :inline => " ... "
+# --
+render :inline => "${<%= 'hello' %>}"

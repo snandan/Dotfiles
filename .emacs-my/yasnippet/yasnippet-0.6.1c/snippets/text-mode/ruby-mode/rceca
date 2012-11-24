@@ -1,0 +1,4 @@
+#group: rails
+#name : render_component :controller => " ... ", :action => " ... "
+# --
+render_component :controller => "${items}", :action => "${index}"

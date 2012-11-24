@@ -1,0 +1,4 @@
+#group: rails
+#name : validates_associated : ... 
+# --
+validates_associated :${attr}

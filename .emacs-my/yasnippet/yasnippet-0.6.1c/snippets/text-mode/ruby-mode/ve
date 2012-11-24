@@ -1,0 +1,4 @@
+#group: rails
+#name : validates_exclusion_of : ... 
+# --
+validates_exclusion_of :${attr}

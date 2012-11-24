@@ -1,0 +1,4 @@
+#group: rails
+#name : render :file => " ... "
+# --
+render :file => "${filepath}"

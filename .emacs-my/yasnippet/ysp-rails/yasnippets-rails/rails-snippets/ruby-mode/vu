@@ -1,0 +1,4 @@
+#group: rails
+#name : validates_uniqueness_of : ... 
+# --
+validates_uniqueness_of :${attr}

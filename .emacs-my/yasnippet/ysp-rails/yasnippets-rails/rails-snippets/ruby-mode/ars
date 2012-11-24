@@ -1,0 +1,4 @@
+#group: rails
+#name : assert_response : ... 
+# --
+assert_response :${success}

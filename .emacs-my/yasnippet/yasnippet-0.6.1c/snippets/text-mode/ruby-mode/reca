@@ -1,0 +1,4 @@
+#group: rails
+#name : redirect_to :controller => " ... ", :action => " ... "
+# --
+redirect_to :controller => "${items}", :action => "${list}"
